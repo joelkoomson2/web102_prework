@@ -1,10 +1,10 @@
 # WEB102 Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Joel Koomson
 
 **Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -35,6 +35,9 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I experinced some challneges with the secret keys and formatting them but 
+figured out how to do them in the end.
 
 ## License
 
