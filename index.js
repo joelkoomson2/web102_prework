@@ -95,6 +95,12 @@ const gamesCard = document.getElementById("num-games");
 
 gamesCard.innerHTML = GAMES_JSON.length;
 
+const unfundedCard = document.getElementById("unfunded-games");
+
+const unfundedGamesCount = GAMES_JSON.filter(game => game.pledged < game.goal).length;
+
+unfundedCard.innerHTML = unfundedGamesCount.toLocaleString();
+
 
 
 
@@ -145,6 +151,7 @@ const allBtn = document.getElementById("all-btn");
 unfundedBtn.addEventListener("click",filterUnfundedOnly);
 fundedBtn.addEventListener("click",filterFundedOnly);
 allBtn.addEventListener("click",showAllGames);
+
 
 
 /*************************************************************************************
