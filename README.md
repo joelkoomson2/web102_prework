@@ -17,8 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] Implemented a header color which is dark blue
-* [x] Changed The body color to a light blue
+* [x] Implemented a header color with gradient's
+* [x] Changed The body color to a gradient 
 * [x] Changed h2 to a diffrent font and italicized it
 * [x] Changed the CSS margins to give more space to h2 and stats card containter 
 
@@ -26,12 +26,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 <a>
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdjZ3lmMDh3N3M2dW91aWU3dWprNGVnZmQ3ZWcwZmdtdXQxbHFqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gjl7buA7UoOMMMijuF/giphy.gif" 
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZlbjQ3NDdocXB0ZmowcjIwbWEyaHlzM3N6cW80cXJqbnNxbng2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eDocEtUVHFaOVWV87a/giphy.gif"
        alt="Watch the walkthrough" 
        width="700" 
        height="394" />
 </a>
 
+"https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZlbjQ3NDdocXB0ZmowcjIwbWEyaHlzM3N6cW80cXJqbnNxbng2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eDocEtUVHFaOVWV87a/giphy.gif"
 
 
 
