@@ -46,7 +46,7 @@ GIF created with GIPHY
 
 Describe any challenges encountered while building the app.
 
-I experinced some challneges with the secret keys and formatting them but 
+I experienced some challanges with the secret keys and formatting them but 
 figured out how to do them in the end.
 
 ## License
